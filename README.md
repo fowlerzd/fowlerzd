@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zdfowler0
-- 👀 I’m interested in algorithms
+- 👀 I’m interested in learning
 - 🌱 I’m currently learning C++, Python
 - 😄 Pronouns: He/Him/His
 
