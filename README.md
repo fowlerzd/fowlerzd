@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zdfowler0
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning C++, Python
+- 🌱 I’m currently learning C++, Python, MATLAB
 - 😄 Pronouns: He/Him/His
 
 <!---
